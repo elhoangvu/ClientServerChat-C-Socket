@@ -1,6 +1,6 @@
-# ClientServerChat-CppSocker
+# ClientServerChat-CppSocket
 
-The Win32 C++ application about client-server chat.
+The Win32 C++ application about client-server chat with socket.
 The project was created in Computer network course, FIT, HCMUS, VN.
 
 ## Demo
