@@ -22,4 +22,4 @@ The project was created in Computer network course, FIT, HCMUS, VN.
 - Socket in C
 - Client-server chat
 
-- Author: Le Hoang Vu
+#### Author: Le Hoang Vu
