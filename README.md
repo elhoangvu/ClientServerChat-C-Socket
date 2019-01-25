@@ -10,12 +10,12 @@ The project was created in Computer network course, FIT, HCMUS, VN.
 
 ### Client side:
 
-<img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client1.jpg" width="49%"> <img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client2.jpg" width="49%">
+<img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client1.jpg"> <img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client2.jpg">
 
-<img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client3.jpg" width="49%"> <img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client4.jpg" width="49%">
+<img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client3.jpg"> <img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client4.jpg">
 
-<img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client5.jpg" width="49%">
-<img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client6.jpg" width="49%">
+<img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client5.jpg">
+<img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/client6.jpg">
 
 ## More info
 - Win32 C++ (WinAPI C++)
