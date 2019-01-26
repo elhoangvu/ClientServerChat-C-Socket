@@ -5,6 +5,8 @@ The project was created in Computer network course, FIT, HCMUS, VN.
 
 ## Demo
 
+Youtube: https://www.youtube.com/watch?v=qeX0n49aelI
+
 ### Server side:
 <img src="https://github.com/elhoangvu/ClientServerChat-C-Socket/blob/master/Demo/server.jpg"> 
 
